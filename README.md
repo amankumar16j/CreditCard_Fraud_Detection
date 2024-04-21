@@ -1,2 +1,2 @@
 # CreditCard_Fraud_Detection
-A Neural Network for detecting fraud in credit card
+A Deep Neural Network to detect fraudulence in credit card.
